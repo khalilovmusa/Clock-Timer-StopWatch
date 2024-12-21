@@ -1,0 +1,11 @@
+.open-settings{
+    align-items: center;
+    align-content: center;
+}
+.settings-buttons-wrapper{
+    display: flex;
+    flex-direction: column;
+}
+.reset-wrapper{
+    margin-bottom: 10px;
+}

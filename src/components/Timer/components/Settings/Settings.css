@@ -1,0 +1,13 @@
+.label{
+    display: block;
+}
+.settings-buttons-wrapper{
+    display: flex;
+    flex-wrap: wrap;
+    margin-top: 10px;
+
+    >.settings-button{
+        margin-right: 3px;
+        margin-left: 3px;
+    }
+}
